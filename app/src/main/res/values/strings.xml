@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Web2APK Studio</string>
+    <string name="studio_subtitle">Zero-Watermark HTML, ZIP &amp; URL to APK Builder</string>
+    <string name="badge_no_watermark">100% Watermark-Free • Unlimited Builds</string>
+    <string name="new_html_project">HTML / CSS / JS / ZIP</string>
+    <string name="new_url_project">Website URL to App</string>
+    <string name="tab_dashboard">Studio</string>
+    <string name="tab_builder">Configurator</string>
+    <string name="tab_builds">APK &amp; ZIP Builds</string>
+    <string name="build_signed_apk">Build Signed APK</string>
+    <string name="build_unsigned_apk">Build Unsigned APK</string>
+    <string name="export_studio_zip">Export Android Studio ZIP</string>
+    <string name="launch_sandbox">Test Live App</string>
+</resources>

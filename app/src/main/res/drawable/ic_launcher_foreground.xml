@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group
+        android:scaleX="0.58"
+        android:scaleY="0.58"
+        android:translateX="5.04"
+        android:translateY="5.04">
+        <!-- Bold filled APK package hexagon + HTML code brackets silhouette -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M12,2L3,7v10l9,5l9,-5V7L12,2zM9.4,14.6L6.8,12l2.6,-2.6L8,8l-4,4l4,4L9.4,14.6zM13.2,8.5l-1.8,7l-1.5,-0.4l1.8,-7L13.2,8.5zM16,16l-1.4,-1.4l2.6,-2.6l-2.6,-2.6L16,8l4,4L16,16z" />
+    </group>
+</vector>

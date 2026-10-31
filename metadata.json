@@ -1,0 +1,8 @@
+{
+  "name": "Remix Web2APK Studio",
+  "description": "Convert HTML, CSS, JavaScript, ZIP bundles, and Website URLs into watermark-free Android APKs and Android Studio projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
